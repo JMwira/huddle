@@ -17,7 +17,7 @@ const Index = () => {
                 <span className='text-white lg:text-2xl text-xl lg:text-left text-center' >
                     Huddle re-imagines the way we build communities. You have a voice, but so does your audience. create connections with your users as you engage in genuine discussion.
                 </span>
-                <button className='rounded-full w-fit p-3 px-16 text-white text-xl bg-fuchsia-400 hover:shadow-xl' >
+                <button className='rounded-full w-fit p-3 px-16 text-purple-950 hover:text-white text-xl bg-white hover:bg-fuchsia-400 hover:shadow-xl' >
                     Register
                 </button>
             </div>
